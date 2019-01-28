@@ -1,2 +1,2 @@
 # git-github
-test github reposattory
+ominifood git reposatry
